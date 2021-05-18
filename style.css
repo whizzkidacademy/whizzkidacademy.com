@@ -1,0 +1,128 @@
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+.clr{
+	clear: both;
+}
+.navbar{
+  margin-bottom: 5px;
+}
+.marquee a{
+  color: #ff0101;
+  font-size: 20px;
+  text-decoration: none !important;
+}
+.marquee a:hover{
+  color: #020d69;
+}
+.menubar{
+  background-color:#008136 !important;
+}
+.menu li a{
+  color: rgb(255, 255, 255) !important;
+}
+.menu li a:hover{
+  border-radius: 5px;
+  background-color: #000;
+  color: #fff !important;
+}
+.my-float{
+	margin-top:16px;
+}
+.carousel-inner img{
+  height: auto;
+}
+.dmvideo{
+    margin-top: 20px;
+    background-color: #fdfdfd;
+    padding: 20px;
+    border-radius: 30px;
+    background: #ffffff;
+    box-shadow:  20px 20px 60px #d9d9d9,
+                 -20px -20px 60px #ffffff;
+}
+.contvid{
+  padding: 10px;
+  background-color: #999;
+}
+.navlist li a{
+  padding-right: 3px;
+  text-decoration: none;
+}
+.navlist li a:hover{
+  color: #323ca1;
+}
+.aboutcontainer{
+    margin-top: 20px;
+    background-color: #fdfdfd;
+}
+.abtimg{
+    width: 100%;
+    padding: 20px;
+}
+.contactcont{
+    margin-top: 20px;
+    background-color: #eee;
+    padding: 20px;
+}
+.social{
+  width: 200px;
+  margin: auto;
+}
+.contactcont a:hover{
+  text-decoration: none;
+}
+.corsection{
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #fdfdfd;
+}
+.fasection{
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #fdfdfd;
+}
+.li-a{
+ padding: 5px;
+ font-size: 18px;
+ color:#000;
+}
+.neu{
+  padding: 10px;
+  border-radius: 10px;
+  background: #ffffff;
+  box-shadow:  20px 20px 58px #d9d9d9,
+               -20px -20px 58px #ffffff;
+}
+.icons a{
+   font-size: 25px;
+}
+.icons a,insta{
+     color:#bc2a8d;
+}
+.footer-cont{
+  padding: 5px;
+  color: #fff;
+  text-align: center;
+  background-color: #008136;
+}
+@media (max-width: 400px){
+  .footer-cont p{
+  font-size: 12px;
+  }
+}
+.navbar-dark .navbar-toggler{
+  border: none;
+}
